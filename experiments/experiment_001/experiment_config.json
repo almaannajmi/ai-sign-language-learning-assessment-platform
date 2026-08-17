@@ -1,0 +1,12 @@
+{
+    "experiment_id": "experiment_001",
+    "dataset_version": "v1.0",
+    "feature_version": "MediaPipe_21_Landmarks",
+    "model_used": "Random Forest",
+    "parameters": {
+        "n_estimators": 100,
+        "random_state": 42
+    },
+    "date": "2026-07-20",
+    "engineer_name": "Almaan Najmi"
+}

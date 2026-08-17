@@ -1,0 +1,9 @@
+{
+    "model": "Random Forest Classifier",
+    "n_estimators": 200,
+    "accuracy": 99.72,
+    "average_inference_time_ms": 47.1888,
+    "peak_memory_kb": 401.29,
+    "model_size_kb": 8239.62,
+    "throughput_predictions_per_second": 21.19
+}

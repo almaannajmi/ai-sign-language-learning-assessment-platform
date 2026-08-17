@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+.pytest_cache/
+.mypy_cache/
+.pyre/
+
+# Virtual environments and tooling
+.venv/
+venv/
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+node_modules/
+
+# Large data and model assets
+datasets/
+backend/logs/
+logs/
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.pkl
+*.pickle
+*.onnx
+*.weights
+*.joblib
+*.zip
+*.tar.gz
+*.tgz
+
+# Generated reports and local outputs
+assessment_report.json
+comparison_report.csv
+dataset_report.json
+error_analysis.md
+failed_samples.txt
+hyperparameter_study.csv
+landmarks.csv
+normalized_landmarks.csv
+test.csv
+train.csv
+training_report.json
+validation.csv
+backend/assessment_report.json
+
+# OS
+.DS_Store
+Thumbs.db
